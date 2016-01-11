@@ -1,0 +1,28 @@
+name: Patrice Michellon
+favicon: null
+layout_spectrum: 0.07560107158496976
+typography_spectrum: 0.37459816550835967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8678371154237539
+  lightness: 0.9322337869089097
+  saturation: 0.706409057835117
+  rhythmicContrast: 0.4101726794615388
+purpose: []
