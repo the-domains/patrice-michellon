@@ -1,6 +1,6 @@
 name: Patrice Michellon
 favicon: null
-layout_spectrum: 0.27687
+layout_spectrum: 0.50066
 typography_spectrum: 0.34223
 title: 'Patrice Michellon | Photography'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#999589'
     - '#5b5a55'
     - '#252523'
-  brandStrength: 0.8678371154237539
+  brandStrength: 1
   lightness: 0.9322337869089097
   saturation: 0.706409057835117
   rhythmicContrast: 0.4101726794615388
